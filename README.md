@@ -1,6 +1,6 @@
 - Greetings, I’m @Anirudhkrishna0612
 - I’m interested in Full stack, Machine language and communication systems.
 - I am a first year ECE student 
-- I am looking for an internship 
+- I am a java intern at Altius infra 
 - Mail me @ anirudhkrishna0612@gmail.com
 - Pronouns: He/Him
