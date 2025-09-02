@@ -1,6 +1,6 @@
 - Greetings, I’m @Anirudhkrishna0612
-- I’m interested in Full stack, Cloud computing, Machine language and communication systems.
-- I am a second year ECE student 
-- I completed a java internship at Altius infra 
+- I’m interested in Java, Full stack and Cloud computing
+- I am a second year Engineering student 
+- I completed a SDE internship at Altius infra 
 - Mail me @ anirudhkrishna0612@gmail.com
 - Pronouns: He/Him
