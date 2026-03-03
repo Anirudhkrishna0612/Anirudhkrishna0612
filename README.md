@@ -2,5 +2,5 @@
 - I’m interested in Java, Full stack and Cloud computing
 - I am a second year Engineering student 
 - I completed a SDE internship at Altius infra 
-- Mail me @ anirudhkrishna0612@gmail.com
+- Mail me @ anirudhkrishna006@gmail.com
 - Pronouns: He/Him
