@@ -5,7 +5,7 @@
 ---
 
 ### 💻 About Me
-* 🌱 I'm a **2nd-year Engineering Student** at Sathyabama Institute of Science and Technology.
+* 🌱 I'm a **3rd-year Engineering Student** at Sathyabama Institute of Science and Technology.
 * 💼 Completed an **SDE Internship at Altius Telecom Infrastructure**, building production-ready features with Spring Boot and Angular.
 * 🔭 Passionate about backend development, system design, and building real-time applications.
 * ⚡ Currently sharpening my problem-solving skills with data structures and algorithms (LeetCode).
