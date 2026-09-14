@@ -5,19 +5,20 @@
 ---
 
 ### 💻 About Me
-* 🌱 I'm a **2nd-year Engineering Student**.
-* 💼 Completed an **SDE Internship at Altius Infra**.
-* 🔭 I’m currently focused on **Java, Full Stack Development, and Cloud Computing**.
-* ⚡ Fun fact: I love solving algorithmic problems and building things from scratch!
+* 🌱 I'm a **2nd-year Engineering Student** at Sathyabama Institute of Science and Technology.
+* 💼 Completed an **SDE Internship at Altius Telecom Infrastructure**, building production-ready features with Spring Boot and Angular.
+* 🔭 Passionate about backend development, system design, and building real-time applications.
+* ⚡ Currently sharpening my problem-solving skills with data structures and algorithms (LeetCode).
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Java, JavaScript, Python
-* **Web / Full Stack:** HTML, CSS, React, Node.js *(adjust based on your stack)*
-* **Cloud & Tools:** Git, GitHub, Linux *(adjust as needed)*
+### 🛠️ Technical Skills
+* **Languages:** Java, JavaScript, SQL, C, Python.
+* **Backend:** Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL, Hibernate.
+* **Frontend:** Angular, RxJS, Angular Material, HTML5, CSS3.
+* **Tools & Platforms:** Git, GitHub, Postman, MySQL Workbench, Spring Tool Suite.
 
 ### 📫 Let's Connect
 * **Email:** [anirudhkrishna006@gmail.com](mailto:anirudhkrishna006@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile URL Here] *(Make sure to add this!)*
+* **LinkedIn:** [anirudhkrishna006](https://www.linkedin.com/in/anirudhkrishna006)
+* **LeetCode:** [anirudhkrishna0](https://leetcode.com/u/anirudhkrishna0/)
 
 ---
-*Pronouns: He/Him*
